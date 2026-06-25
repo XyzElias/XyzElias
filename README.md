@@ -27,9 +27,6 @@
   <a href="https://instagram.com/xyzelias">
     <img src="https://img.shields.io/badge/Instagram-xyzelias-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://de.fiverr.com/s/XLwBPBG">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
   <a href="mailto:eliasfelder07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -48,17 +45,17 @@
 - 🌐 Passionate about **modern web development** and creative digital solutions
 - 🤖 Deep into **AI / LLMs & prompt engineering** — I build tools *with* and *for* AI
 - 🎨 I care about **UI/UX** — making things look as good as they work
-- 💬 Ask me about React, TypeScript, PHP or anything Claude/LLM related
+- 💬 Ask me about React, TypeScript, PHP or anything Claude/LLM/AI related
 
 ```ts
 const elias = {
   name:      "Elias Felder",
-  role:      "Application Developer (Apprentice)",
+  role:      "Application Developer",
   location:  "Basel, Switzerland 🇨🇭",
   languages: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
-  stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL"],
+  stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL", and more],
   focus:     ["Web Development", "UI/UX", "AI / LLMs", "Prompt Engineering"],
-  building:  ["StartIQ", "Prismatic", "QR Create"],
+  building:  ["StartIQ", "Prismatic", "QR Create", and more],
   motto:     "Make the tools look as good as they work.",
 };
 ```
