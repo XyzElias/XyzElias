@@ -50,7 +50,7 @@
 ```ts
 const elias = {
   name:      "Elias Felder",
-  role:      "Application Developer",
+  role:      "Software Developer @ zvoove",
   location:  "Basel, Switzerland 🇨🇭",
   languages: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
   stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL", and more],
