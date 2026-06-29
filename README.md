@@ -22,16 +22,16 @@
     <img src="https://img.shields.io/badge/Portfolio-eliasfelder.ch-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/eliasfelder/">
-    <img src="https://img.shields.io/badge/LinkedIn-Elias%20Felder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Elias%20Felder-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/xyzelias">
-    <img src="https://img.shields.io/badge/Instagram-xyzelias-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-xyzelias-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:eliasfelder07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=XyzElias&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=XyzElias&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <br/>
@@ -45,17 +45,17 @@
 - 🌐 Passionate about **modern web development** and creative digital solutions
 - 🤖 Deep into **AI / LLMs & prompt engineering** — I build tools *with* and *for* AI
 - 🎨 I care about **UI/UX** — making things look as good as they work
-- 💬 Ask me about React, TypeScript, PHP or anything Claude/LLM/AI related
+- 💬 Ask me about React, TypeScript, PHP or anything LLM / AI related
 
 ```ts
 const elias = {
   name:      "Elias Felder",
-  role:      "Software Developer @ zvoove",
+  role:      "Application Developer @ zvoove",
   location:  "Basel, Switzerland 🇨🇭",
   languages: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
-  stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL", and more],
+  stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL", "& more"],
   focus:     ["Web Development", "UI/UX", "AI / LLMs", "Prompt Engineering"],
-  building:  ["StartIQ", "Prismatic", "QR Create", and more],
+  building:  ["StartIQ", "Prismatic", "QR Create", "& more"],
   motto:     "Make the tools look as good as they work.",
 };
 ```
@@ -70,11 +70,10 @@ const elias = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,vite,tailwind,nodejs,mysql,git,github,figma,vscode&theme=dark&perline=7" alt="Tech stack" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-F97316?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 <br/>
@@ -96,12 +95,14 @@ const elias = {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          TROPHIES                           ║ -->
+<!-- ║                 3D ISOMETRIC CONTRIBUTIONS 🧊                ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-## <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="28"> &nbsp;Trophies
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Contributions&nbsp;in&nbsp;3D
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XyzElias&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <sub><em>Custom sunset palette · the towers grow as the page loads 📈</em></sub>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/XyzElias/XyzElias/main/profile-3d-contrib/profile-sunset.svg" width="100%" alt="3D contribution calendar" />
 </div>
 
 <br/>
@@ -115,8 +116,19 @@ const elias = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake-sunset.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake-sunset.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake-sunset.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          TROPHIES                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="28"> &nbsp;Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XyzElias&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <br/>
@@ -148,21 +160,10 @@ const elias = {
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      ACTIVITY GRAPH                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Contribution&nbsp;Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XyzElias&bg_color=0D1117&color=F97316&line=EC4899&point=A855F7&area_color=A855F7&title_color=F97316&area=true&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        DEV QUOTE                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->

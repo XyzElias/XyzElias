@@ -1,0 +1,37 @@
+name: 🧊 Generate 3D Contribution Graph
+
+# Builds an isometric 3D contribution calendar with a custom sunset palette.
+# Runs daily, on every push to main, and can be triggered manually.
+on:
+  schedule:
+    - cron: "30 3 * * *"   # every day at 03:30 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+# Needs write access to commit the generated SVG back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution SVG
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-settings.json
+
+      - name: Commit & push the graph
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: main
+          file_pattern: "profile-3d-contrib/*.svg"
+          commit_message: "chore: refresh 3d contribution graph"

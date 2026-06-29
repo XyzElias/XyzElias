@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-sunset.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#f97316",
+  "weakColor": "#8b949e",
+  "radarColor": "#a855f7",
+  "growingAnimation": true,
+  "contribColors": ["#161b22", "#7c2d12", "#c2410c", "#ec4899", "#a855f7"]
+}
