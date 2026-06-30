@@ -112,12 +112,6 @@ const elias = {
 <h2 align="center">🚀 &nbsp;Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/XyzElias/prismatic-claude-statusline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XyzElias&repo=prismatic-claude-statusline&show_owner=false&hide_border=true&title_color=F97316&icon_color=EC4899&text_color=c9d1d9&bg_color=0D1117" alt="Prismatic" />
-  </a>
-</div>
-
-<div align="center">
 
 | Project | What it does |
 | :--- | :--- |
