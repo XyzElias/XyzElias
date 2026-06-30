@@ -56,6 +56,24 @@ const elias = {
 };
 ```
 
+<details align="center">
+  <summary><b>🌱 &nbsp;A bit more about me</b></summary>
+  <br/>
+  <p align="center">
+    Hey! I'm Elias, 18, living near <b>Basel, Switzerland 🇨🇭</b>.<br/>
+    In my free time I build private side-projects, experiment with new frameworks &amp; tech,<br/>
+    and unwind with <b>gaming 🎮, music 🎧 &amp; movies 🎬</b>.<br/>
+    <b>Travelling ✈️</b> keeps me inspired and fuels my creativity.
+  </p>
+  <p align="center">
+    🔭 &nbsp;Currently a <b>2nd-year application-developer apprentice @ zvoove</b><br/>
+    🌐 &nbsp;Crafting web apps with a sharp focus on <b>UI/UX</b><br/>
+    🤖 &nbsp;Deep in <b>AI / LLMs &amp; prompt engineering</b><br/>
+    💬 &nbsp;Ask me about <b>React, TypeScript, PHP</b> — or anything LLM related<br/>
+    📫 &nbsp;Reach me at <a href="mailto:eliasfelder07@gmail.com">eliasfelder07@gmail.com</a>
+  </p>
+</details>
+
 <!-- divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
 
@@ -64,13 +82,42 @@ const elias = {
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <h2 align="center">🛠️ &nbsp;Tech Stack</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,vite,tailwind,nodejs,mysql,git,github,figma,vscode&theme=dark&perline=7" alt="Tech stack" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Claude-F97316?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-EC4899?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <strong>🎨 Frontend</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark&perline=7" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>⚙️ Backend</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,nodejs,mysql&theme=dark&perline=7" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>🧰 Tools</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=7" alt="Tools" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <strong>🤖 AI / LLMs</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Claude-F97316?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/OpenAI-EC4899?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=flat-square&logo=probot&logoColor=white" alt="Prompt Engineering" />
+    </td>
+  </tr>
+</table>
 
 <!-- divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
@@ -81,10 +128,10 @@ const elias = {
 <h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XyzElias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=EC4899&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
+  <img height="180em" src="https://xyzelias-stats.vercel.app/api?username=XyzElias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=EC4899&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=XyzElias&hide_border=true&background=0D1117&stroke=A855F7&ring=F97316&fire=EC4899&currStreakLabel=F97316&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&dayNums=8b949e&titleColor=F97316" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyzElias&layout=compact&hide_border=true&langs_count=8&title_color=F97316&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
+  <img src="https://xyzelias-stats.vercel.app/api/top-langs/?username=XyzElias&layout=compact&hide_border=true&langs_count=8&title_color=F97316&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
 </div>
 
 <!-- divider -->
@@ -121,6 +168,19 @@ const elias = {
 | **[Ablaufdatum Manager](https://eliasfelder.ch)** | Web app to track and manage product expiration dates |
 
 <sub>👉 See all projects live at <a href="https://eliasfelder.ch"><b>eliasfelder.ch</b></a></sub>
+
+<br/><br/>
+
+<details>
+  <summary><b>🔍 &nbsp;More details on each project</b></summary>
+  <br/>
+  <ul align="left">
+    <li><b>StartIQ</b> — Personalizable browser start page with clock, weather widget, Pomodoro timer, notes, Google Calendar integration &amp; user authentication.</li>
+    <li><b>Prismatic</b> — Open-source status line for Claude Code: truecolor gradient pills, a color-coded context bar &amp; a visual live config editor. Zero dependencies, a single script.</li>
+    <li><b>QR Create</b> — Free online QR-code generator with custom designs, gradients, logo embedding &amp; multi-language support (DE/EN).</li>
+    <li><b>Ablaufdatum Manager</b> — Web app to manage products and track their expiration dates.</li>
+  </ul>
+</details>
 
 </div>
 
