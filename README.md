@@ -1,206 +1,36 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    HEADER · WAVING GRADIENT                   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:a855f7&height=210&section=header&text=Elias%20Felder&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Application%20Developer%20%C2%B7%20Basel%2C%20Switzerland&descAlignY=56&descSize=20" width="100%" alt="header" />
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       TYPING SUBTITLE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<div align="center">
-  <a href="https://eliasfelder.ch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B+I%27m+Elias;Application+Developer+from+Basel+%F0%9F%87%A8%F0%9F%87%AD;Web+Development+%7C+UI%2FUX+%7C+AI+%26+LLMs;Turning+ideas+into+clean+digital+products+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-  <br/><br/>
-  <a href="https://eliasfelder.ch">
-    <img src="https://img.shields.io/badge/Portfolio-eliasfelder.ch-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/eliasfelder/">
-    <img src="https://img.shields.io/badge/LinkedIn-Elias%20Felder-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/xyzelias">
-    <img src="https://img.shields.io/badge/Instagram-xyzelias-A855F7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:eliasfelder07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=XyzElias&style=for-the-badge&color=EC4899&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          ABOUT ME                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">👋 &nbsp;About Me</h2>
-
-<p align="center">
-  18-year-old <b>application developer</b> from <b>Basel 🇨🇭</b> — 2nd-year apprentice <b>@ zvoove</b>.<br/>
-  I build modern web apps with a sharp eye for <b>UI/UX</b>, and I live deep in the world of <b>AI / LLMs &amp; prompt engineering</b>.<br/>
-  <em>Ask me about React, TypeScript, PHP — or anything LLM / AI related.</em>
-</p>
-
-```ts
-const elias = {
-  name:      "Elias Felder",
-  role:      "Application Developer @ zvoove",
-  location:  "Basel, Switzerland 🇨🇭",
-  languages: ["TypeScript", "JavaScript", "PHP", "HTML", "CSS"],
-  stack:     ["React", "Vite", "Tailwind", "Node.js", "MySQL", "& more"],
-  focus:     ["Web Development", "UI/UX", "AI / LLMs", "Prompt Engineering"],
-  building:  ["StartIQ", "Prismatic", "QR Create", "& more"],
-  motto:     "Make the tools look as good as they work.",
-};
-```
-
-<details align="center">
-  <summary><b>🌱 &nbsp;A bit more about me</b></summary>
-  <br/>
-  <p align="center">
-    Hey! I'm Elias, 18, living near <b>Basel, Switzerland 🇨🇭</b>.<br/>
-    In my free time I build private side-projects, experiment with new frameworks &amp; tech,<br/>
-    and unwind with <b>gaming 🎮, music 🎧 &amp; movies 🎬</b>.<br/>
-    <b>Travelling ✈️</b> keeps me inspired and fuels my creativity.
-  </p>
-  <p align="center">
-    🔭 &nbsp;Currently a <b>2nd-year application-developer apprentice @ zvoove</b><br/>
-    🌐 &nbsp;Crafting web apps with a sharp focus on <b>UI/UX</b><br/>
-    🤖 &nbsp;Deep in <b>AI / LLMs &amp; prompt engineering</b><br/>
-    💬 &nbsp;Ask me about <b>React, TypeScript, PHP</b> — or anything LLM related<br/>
-    📫 &nbsp;Reach me at <a href="mailto:eliasfelder07@gmail.com">eliasfelder07@gmail.com</a>
-  </p>
-</details>
-
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        TECH STACK                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">🛠️ &nbsp;Tech Stack</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <strong>🎨 Frontend</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&theme=dark&perline=7" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <strong>⚙️ Backend</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,nodejs,mysql&theme=dark&perline=7" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <strong>🧰 Tools</strong>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=7" alt="Tools" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <strong>🤖 AI / LLMs</strong>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Claude-F97316?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/OpenAI-EC4899?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=flat-square&logo=probot&logoColor=white" alt="Prompt Engineering" />
-    </td>
-  </tr>
-</table>
-
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       GITHUB STATS                          ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://xyzelias-stats.vercel.app/api?username=XyzElias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=EC4899&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=XyzElias&hide_border=true&background=0D1117&stroke=A855F7&ring=F97316&fire=EC4899&currStreakLabel=F97316&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&dayNums=8b949e&titleColor=F97316" alt="GitHub streak" />
-  <br/>
-  <img src="https://xyzelias-stats.vercel.app/api/top-langs/?username=XyzElias&layout=compact&hide_border=true&langs_count=8&title_color=F97316&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
-</div>
-
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    CONTRIBUTION SNAKE 🐍                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">🐍 &nbsp;Watch the Snake Eat My Contributions</h2>
-
-<div align="center">
+<a href="https://eliasfelder.ch">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake-sunset.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/snake-sunset.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-light.svg" />
+    <img alt="Elias Felder. A mountain range drawn from my commits over the last twelve months, one ridge per month." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" width="100%" />
   </picture>
-</div>
+</a>
 
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
+I'm an application developer in my third year of apprenticeship in Basel, and the founder of [Velro](https://velro.ch), an AI back office for Swiss SMEs. Most days that means TypeScript, Next.js and PostgreSQL. Most nights it means another side project.
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      FEATURED PROJECTS                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2 align="center">🚀 &nbsp;Featured Projects</h2>
+[eliasfelder.ch](https://eliasfelder.ch) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/eliasfelder/) &nbsp;/&nbsp; [Instagram](https://instagram.com/xyzelias) &nbsp;/&nbsp; [mail@eliasfelder.ch](mailto:mail@eliasfelder.ch)
 
-<div align="center">
+<br/>
 
-| Project | What it does |
-| :--- | :--- |
-| **[StartIQ](https://eliasfelder.ch)** | Customizable browser homepage — weather, Pomodoro timer, notes & calendar |
-| **[Prismatic](https://github.com/XyzElias/prismatic-claude-statusline)** | Open-source gradient status line for Claude Code (Node.js) ⭐ |
-| **[QR Create](https://eliasfelder.ch)** | Professional QR code generator with custom designs & multi-language support |
-| **[Ablaufdatum Manager](https://eliasfelder.ch)** | Web app to track and manage product expiration dates |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-light.svg" />
+  <img alt="A 24-hour ring showing when my commits land, my commit totals for the last twelve months, and the languages my repos are written in." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" width="100%" />
+</picture>
 
-<sub>👉 See all projects live at <a href="https://eliasfelder.ch"><b>eliasfelder.ch</b></a></sub>
+### What I'm building
 
-<br/><br/>
+<a href="https://velro.ch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-light.svg" /><img alt="Velro: AI back office for Swiss SMEs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" width="49%" /></picture></a>
+<a href="https://github.com/XyzElias/prismatic-claude-statusline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-light.svg" /><img alt="Prismatic: gradient status line for Claude Code" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" width="49%" /></picture></a>
+<a href="https://startiq.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-light.svg" /><img alt="StartIQ: personal browser start page" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" width="49%" /></picture></a>
+<a href="https://qrcreate.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-light.svg" /><img alt="QR Create: QR code generator with custom designs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" width="49%" /></picture></a>
 
-<details>
-  <summary><b>🔍 &nbsp;More details on each project</b></summary>
-  <br/>
-  <ul align="left">
-    <li><b>StartIQ</b> — Personalizable browser start page with clock, weather widget, Pomodoro timer, notes, Google Calendar integration &amp; user authentication.</li>
-    <li><b>Prismatic</b> — Open-source status line for Claude Code: truecolor gradient pills, a color-coded context bar &amp; a visual live config editor. Zero dependencies, a single script.</li>
-    <li><b>QR Create</b> — Free online QR-code generator with custom designs, gradients, logo embedding &amp; multi-language support (DE/EN).</li>
-    <li><b>Ablaufdatum Manager</b> — Web app to manage products and track their expiration dates.</li>
-  </ul>
-</details>
+### What I reach for
 
-</div>
+**Every day:** TypeScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Prisma<br/>
+**Also at home in:** PHP, MySQL, Python, Docker, Figma<br/>
+**AI:** Claude, OpenAI, prompt engineering, building agents and tools around LLMs
 
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ec4899,100:a855f7&height=2" width="100%" alt="" />
+<br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        DEV QUOTE                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       FOOTER WAVE                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:ec4899,100:f97316&height=120&section=footer" width="100%" alt="footer" />
-</div>
-
-<div align="center">
-  <sub>⭐ <em>Thanks for stopping by — let's build something cool.</em> ⭐</sub>
-</div>
+<sub>Everything drawn above comes from my real commit history. A [small script](generator/render.mjs) redraws it every six hours, private repos included.</sub>

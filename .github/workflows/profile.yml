@@ -1,0 +1,50 @@
+name: Redraw profile
+
+# Redraws the README artwork from my commit history.
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every six hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["generator/**", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      # Fine-grained token with read-only "Contents" + "Metadata" on all my repos.
+      # Without it the job is skipped so the last full render stays up.
+      STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+    steps:
+      - name: Check for token
+        if: env.STATS_TOKEN == ''
+        run: echo "::warning::STATS_TOKEN secret is missing, keeping the previous render."
+
+      - uses: actions/checkout@v4
+        if: env.STATS_TOKEN != ''
+
+      - uses: actions/setup-node@v4
+        if: env.STATS_TOKEN != ''
+        with:
+          node-version: 22
+
+      - name: Render SVGs
+        if: env.STATS_TOKEN != ''
+        run: node generator/render.mjs dist
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+
+      - name: Publish to the output branch
+        if: env.STATS_TOKEN != ''
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
