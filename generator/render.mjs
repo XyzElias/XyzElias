@@ -97,6 +97,8 @@ async function gh(path) {
   });
   if (res.status === 409 || res.status === 404) return null; // empty or hidden repo
   if (res.status === 202) return { pending: true };          // stats still being computed
+  if (res.status === 403 && path.includes("/commits"))
+    throw new Error(`403 on ${path}. The token can see this repo but not its commits: give it "Contents: Read-only" on all repositories.`);
   if (!res.ok) throw new Error(`${res.status} ${path}: ${await res.text()}`);
   return res.json();
 }
