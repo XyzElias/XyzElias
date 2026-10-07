@@ -1,10 +1,4 @@
-<a href="https://eliasfelder.ch">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-light.svg" />
-    <img alt="Elias Felder. A mountain range drawn from my commits over the last twelve months, one ridge per month." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" width="100%" />
-  </picture>
-</a>
+<a href="https://eliasfelder.ch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-light.svg" /><img alt="Elias Felder. A mountain range drawn from my commits over the last twelve months, one ridge per month." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/hero-dark.svg" width="100%" /></picture></a>
 
 I'm an application developer in my third year of apprenticeship in Basel, and the founder of [Velro](https://velro.ch), an AI back office for Swiss SMEs. Most days that means TypeScript, Next.js and PostgreSQL. Most nights it means another side project.
 
@@ -12,25 +6,15 @@ I'm an application developer in my third year of apprenticeship in Basel, and th
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-light.svg" />
-  <img alt="A 24-hour ring showing when my commits land, my commit totals for the last twelve months, and the languages my repos are written in." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" width="100%" />
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-light.svg" /><img alt="My year in commits as a ring, one bar per week, with twelve-month totals and the languages my repos are written in." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/rhythm-dark.svg" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/focus-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/focus-light.svg" /><img alt="Where the year went: commits per week, stacked by project." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/focus-dark.svg" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/lines-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/lines-light.svg" /><img alt="Lines of code added and deleted per week." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/lines-dark.svg" width="49.5%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/recent-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/recent-light.svg" /><img alt="Commits per day over the last 30 days." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/recent-dark.svg" width="49.5%" /></picture>
+<a href="https://velro.ch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-light.svg" /><img alt="Velro: AI back office for Swiss SMEs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" width="49.5%" /></picture></a>
+<a href="https://github.com/XyzElias/prismatic-claude-statusline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-light.svg" /><img alt="Prismatic: gradient status line for Claude Code" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" width="49.5%" /></picture></a>
+<a href="https://startiq.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-light.svg" /><img alt="StartIQ: personal browser start page" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" width="49.5%" /></picture></a>
+<a href="https://qrcreate.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-light.svg" /><img alt="QR Create: QR code generator with custom designs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" width="49.5%" /></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/trail-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/trail-light.svg" /><img alt="What I've shipped: Ablaufdatum Manager, QR Create, StartIQ, Portfolio v4, Prismatic and Velro, as a trail up a mountain." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/trail-dark.svg" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/stack-light.svg" /><img alt="What I reach for: TypeScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Prisma, PHP, MySQL, Python, Docker, tRPC, Figma, Claude, OpenAI." src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/stack-dark.svg" width="100%" /></picture>
 
-### What I'm building
-
-<a href="https://velro.ch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-light.svg" /><img alt="Velro: AI back office for Swiss SMEs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-1-dark.svg" width="49%" /></picture></a>
-<a href="https://github.com/XyzElias/prismatic-claude-statusline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-light.svg" /><img alt="Prismatic: gradient status line for Claude Code" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-2-dark.svg" width="49%" /></picture></a>
-<a href="https://startiq.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-light.svg" /><img alt="StartIQ: personal browser start page" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-3-dark.svg" width="49%" /></picture></a>
-<a href="https://qrcreate.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-light.svg" /><img alt="QR Create: QR code generator with custom designs" src="https://raw.githubusercontent.com/XyzElias/XyzElias/output/project-4-dark.svg" width="49%" /></picture></a>
-
-### What I reach for
-
-**Every day:** TypeScript, React, Next.js, Tailwind, Node.js, PostgreSQL, Prisma<br/>
-**Also at home in:** PHP, MySQL, Python, Docker, Figma<br/>
-**AI:** Claude, OpenAI, prompt engineering, building agents and tools around LLMs
-
-<br/>
-
-<sub>Everything drawn above comes from my real commit history. A [small script](generator/render.mjs) redraws it every six hours, private repos included.</sub>
+<sub>Everything above is drawn from my real commit history by a [small script](generator/render.mjs) and redrawn every six hours, private repos included.</sub>
