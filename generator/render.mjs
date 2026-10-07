@@ -319,8 +319,8 @@ function hero(T, A) {
 
 // ── rhythm: when I code + what I code in ─────────────────────────────────
 function rhythm(T, A, langs, now) {
-  const W = 860, H = 380;
-  const cx = 186, cy = 190, r0 = 46, r1 = 128;
+  const W = 860, H = 400;
+  const cx = 200, cy = 200, r0 = 56, r1 = 160;
   const weeks = A.groupWeeks[GROUPS[0][0]].map((_, w) => GROUPS.reduce((s, [g]) => s + A.groupWeeks[g][w], 0));
   const max = Math.max(1, ...weeks);
   const ang = (w) => ((w / 52) * 360 - 90) * (Math.PI / 180);
@@ -615,15 +615,27 @@ else {
 }
 const A = analyse(data, now);
 mkdirSync(OUT, { recursive: true });
+// Transparent margin around each panel so the README gets even gaps between
+// them. Half-width panels are 430 wide in total so they scale like the 860s.
+const GAP = 10;
+function frame(svgText, side) {
+  const [, w, h] = svgText.match(/viewBox="0 0 (\d+) (\d+)"/).map(Number);
+  const l = side === "right" ? GAP : 0, r = side === "left" ? GAP : 0;
+  const W = w + l + r, H = h + 2 * GAP;
+  return svgText
+    .replace(/viewBox="[^"]*" width="\d+" height="\d+"/, `viewBox="0 0 ${W} ${H}" width="${W}" height="${H}"`)
+    .replace("</style>", `</style><g transform="translate(${l},${GAP})">`)
+    .replace(/<\/svg>$/, "</g></svg>");
+}
 for (const [name, T] of Object.entries(THEMES)) {
-  const out = (file, body) => writeFileSync(join(OUT, `${file}-${name}.svg`), body);
+  const out = (file, body, side) => writeFileSync(join(OUT, `${file}-${name}.svg`), file === "hero" ? body : frame(body, side));
   out("hero", hero(T, A));
   out("rhythm", rhythm(T, A, data.languages, now));
   out("focus", focus(T, A, now));
-  out("lines", lines(T, A));
-  out("recent", recent(T, A));
+  out("lines", lines(T, A), "left");
+  out("recent", recent(T, A), "right");
   out("trail", trail(T, now));
   out("stack", stack(T));
-  PROJECTS.forEach((P, i) => out(`project-${i + 1}`, card(T, P, A, data.stars[P.repo], i)));
+  PROJECTS.forEach((P, i) => out(`project-${i + 1}`, card(T, P, A, data.stars[P.repo], i), i % 2 ? "right" : "left"));
 }
 console.log(`${A.total} commits, ${A.activeDays} active days, ${data.repoCount} repos → ${OUT}/`);
